@@ -44,12 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kwon-arim&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwon-arim&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kwon-arim&theme=tokyonight&hide_border=true"/>
@@ -59,10 +54,8 @@
 
 ## 📫 Contact
 
-<p>
-📧 <strong>Email</strong><br>
-kwonarim5@gmail.com
-</p>
+📧 **Email**  
+**kwonarim5@gmail.com**
 
 ---
 
