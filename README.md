@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋 I'm Arim</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwon-arim&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   🎓 IBM x Red Hat AX Academy 6th
