@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Arim</h1>
+<h1 align="center">Hi 👋 I'm Arim</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kwon-arim&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   🎓 IBM x Red Hat AX Academy 6th
@@ -6,14 +10,16 @@
 
 ---
 
-## 📚 Languages
+# 💻 Tech Stack
+
+### 📚 Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -21,22 +27,22 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-## ⚙️ Backend & Database
+### ⚙️ Backend & Database
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## 🛠 Tools
+### 🛠 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-## 📜 Certification
+### 📜 Certification
 
 <p>
   <img src="https://img.shields.io/badge/정보기기운용기능사-00599C?style=for-the-badge"/>
@@ -44,7 +50,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kwon-arim&theme=tokyonight&hide_border=true"/>
@@ -52,14 +58,15 @@
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-📧 **Email**  
-**kwonarim5@gmail.com**
+<p>
+  📧 <a href="mailto:kwonarim5@gmail.com">kwonarim5@gmail.com</a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kwon-arim/kwon-arim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
