@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋 I'm Arim</h1>
 
-<p align="center">
-  🎓 IBM x Red Hat AX Academy 6th
-</p>
-
-
 [![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-903d1463d3ad83c7aeb401dab646e14b?source=copy_link)
 
 [![Notion](https://img.shields.io/badge/Notion-IBM_RedHat_-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/IBM-RedHat-320d1463d3ad80f6a0dcc7371cd5984a?source=copy_link)
 
+## 🎓 Education & Certifications
 
+### 🏫 학력 (Education)
+* **성남테크노과학고등학교 정보보안과** (2023.03 ~ 2025.12) - *졸업*
+
+### 📜 자격증 (Certifications)
+* **정보기기운용기능사** (2025.07)
+
+### 💡 교육 이력 (Training)
+* **IBM × Red Hat AI Transformation AX 6기 교육 과정** (2026.02 ~ 2026.08)
 ---
 
 ## 💻 Skill Set
