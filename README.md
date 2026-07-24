@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Arim</h1>
 
+[![Notion](https://img.shields.io/badge/Notion-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-903d1463d3ad83c7aeb401dab646e14b?source=copy_link)
 
 <p align="center">
   🎓 IBM x Red Hat AX Academy 6th
@@ -47,13 +48,6 @@
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kwon-arim&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📫 Contact
 
